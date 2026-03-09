@@ -1,0 +1,27 @@
+
+body{ 
+    background-color: rgb(99, 98, 98);
+    color: yellow;
+}
+
+img{
+    width: 400px;
+    border-radius: 20px;
+    margin: 50px 50px 50px 50px; /*top right bottom left */
+
+}
+  
+div1{
+     text-align:center;
+     font-size: 30px;
+    }
+
+div2{
+    color: white;
+}
+
+h1{
+    margin: 0%;
+    background-color: black;
+}
+    
